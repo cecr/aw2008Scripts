@@ -497,3 +497,5 @@ INSERT INTO [Person].[RandomData] ([InformalName], [AlternativeAddress], [Altern
 INSERT INTO [Person].[RandomData] ([InformalName], [AlternativeAddress], [AlternativePhoneNumber], [PetName], [Netflix], [AmazonPrime]) VALUES ('Evelyn', '2909 Wacker', '(132) 3150-5971', 'Madison', 1, 1);
 INSERT INTO [Person].[RandomData] ([InformalName], [AlternativeAddress], [AlternativePhoneNumber], [PetName], [Netflix], [AmazonPrime]) VALUES ('Hailey', '1007 Oakland', '(132) 5489-2612', 'Mckenzie', 1, 1);
 INSERT INTO [Person].[RandomData] ([InformalName], [AlternativeAddress], [AlternativePhoneNumber], [PetName], [Netflix], [AmazonPrime]) VALUES ('Milan', '1034 119th', '(160) 2521-9445', 'July', 1, 0);
+INSERT INTO [Person].[RandomData] ([InformalName], [AlternativeAddress], [AlternativePhoneNumber], [PetName], [Netflix], [AmazonPrime]) VALUES ('Deangelo', '3987 Thomas', '(156) 2481-3252', 'Liberty', 1, 1);
+INSERT INTO [Person].[RandomData] ([InformalName], [AlternativeAddress], [AlternativePhoneNumber], [PetName], [Netflix], [AmazonPrime]) VALUES ('Xander', '5172 Crosby', '(195) 1525-4876', 'Montana', 1, 1);
